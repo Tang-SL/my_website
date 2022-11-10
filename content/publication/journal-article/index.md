@@ -79,9 +79,28 @@ tags:
   - Source Themes
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  caption: Dual quasar fraction with projected separation between 5 and 30 kpc as
+    a function of redshift. Top Observational results from our Sub- aru/HSC
+    program are displayed with the colored region indicating a 1σ con- fidence
+    interval based on Poisson statistics and the uncertainty on the spec-
+    troscopic success rate. The blue region is based on our sample having a flux
+    ratio within 10:1 while the maroon region shows only those having a flux
+    ratio within 3:1. For comparison, we show other published observational
+    studies (thin light-blue square, Liu et al. 2011; purple circle, Koss et al.
+    2012) that only exist for the local Universe (z < 0.1). Bottom Results from
+    cosmo- logical hydrodynamic simulations based on real-space separations.
+    Horizon- AGN (Volonteri et al. 2016) is shown with a quasar selection
+    matched to our observed sample (M. Volonteri, private comm.) thus labelled
+    Horizon-AGN ’select’. For further comparison, we indicate the dual AGN
+    fraction from the Magneticum (Steinborn et al. 2016) and EAGLE
+    (Rosas-Guevara et al. 2019) simulations having a lower threshold in AGN
+    luminosity that can lead to more pronounced differences in the dual AGN
+    fraction, particularly at higher red- shifts. The Magneticum, EAGLE and
+    Horizon-AGN curves are based on the matched results shown in Figure 6 of De
+    Rosa et al. (2019).
   focal_point: ""
   preview_only: false
+  filename: featured.png
 date: 2020-08-20T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
