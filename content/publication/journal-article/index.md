@@ -28,9 +28,10 @@ publication_types:
   - "2"
 authors:
   - Silverman
-  - John D.; Tang
-  - Shenli; Lee
-  - Khee-Gan; et al.
+  - John D
+  - admin
+  - Lee Khee-Gan
+  - et al.
 author_notes: []
 publication: The Astrophysical Journal
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
