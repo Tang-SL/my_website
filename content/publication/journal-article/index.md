@@ -30,37 +30,7 @@ authors:
   - Silverman
   - John D.; Tang
   - Shenli; Lee
-  - Khee-Gan; Hartwig
-  - Tilman; Goulding
-  - Andy; Strauss
-  - Michael A.; Schramm
-  - Malte; Ding
-  - Xuheng; Riffel
-  - Rogemar A.; Fujimoto
-  - Seiji; Hikage
-  - Chiaki; Imanishi
-  - Masatoshi; Iwasawa
-  - Kazushi; Jahnke
-  - Knud; Kayo
-  - Issha; Kashikawa
-  - Nobunari; Kawaguchi
-  - Toshihiro; Kohno
-  - Kotaro; Luo
-  - Wentao; Matsuoka
-  - Yoshiki; Matsuda
-  - Yuichi; Nagao
-  - Tohru; Oguri
-  - Masamune; Ono
-  - Yoshiaki; Onoue
-  - Masafusa; Ouchi
-  - Masami; Shimasaku
-  - Kazuhiro; Suh
-  - Hyewon; Suzuki
-  - Nao; Taniguchi
-  - Yoshiaki; Toba
-  - Yoshiki ; Ueda
-  - Yoshihiro; Yasuda
-  - Naoki
+  - Khee-Gan; et al.
 author_notes: []
 publication: The Astrophysical Journal
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
