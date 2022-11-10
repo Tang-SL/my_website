@@ -1,10 +1,12 @@
 ---
 title: Optical Spectroscopy of Dual Quasar Candidates from the Subaru HSC-SSP program
 publication_types:
-  - "0"
   - "2"
 authors:
-  - admin; John D. Silverman; Xuheng Din; et al.
+  - admin
+  - John D. Silverman
+  - Xuheng Ding
+  - et al.
 doi: 10.3847/1538-4357/ac1ff0
 publication: The Astrophysical Journal
 publication_short: APJ
