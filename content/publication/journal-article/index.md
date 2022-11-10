@@ -37,7 +37,30 @@ authors:
   - Malte; Ding
   - Xuheng; Riffel
   - Rogemar A.; Fujimoto
-  - Seiji et al.
+  - Seiji; Hikage
+  - Chiaki; Imanishi
+  - Masatoshi; Iwasawa
+  - Kazushi; Jahnke
+  - Knud; Kayo
+  - Issha; Kashikawa
+  - Nobunari; Kawaguchi
+  - Toshihiro; Kohno
+  - Kotaro; Luo
+  - Wentao; Matsuoka
+  - Yoshiki; Matsuda
+  - Yuichi; Nagao
+  - Tohru; Oguri
+  - Masamune; Ono
+  - Yoshiaki; Onoue
+  - Masafusa; Ouchi
+  - Masami; Shimasaku
+  - Kazuhiro; Suh
+  - Hyewon; Suzuki
+  - Nao; Taniguchi
+  - Yoshiaki; Toba
+  - Yoshiki ; Ueda
+  - Yoshihiro; Yasuda
+  - Naoki
 author_notes: []
 publication: The Astrophysical Journal
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
@@ -59,9 +82,9 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-date: 2015-09-01T00:00:00Z
+date: 2020-08-20T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
