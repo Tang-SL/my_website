@@ -1,68 +1,69 @@
 ---
-title: "An example journal article"
-authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
-
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
-
-# links:
-# - name: ""
-#   url: ""
+abstract: The unique combination of superb spatial resolution, wide-area
+  coverage, and deep depth of the optical imaging from the Hyper Suprime-Cam
+  (HSC) Subaru Strategic Program is utilized to search for dual quasar
+  candidates. Using an automated image analysis routine on 34,476 known Sloan
+  Digital Sky Survey quasars, we identify those with two (or more) distinct
+  optical point sources in HSC images covering 796 deg2. We find 421 candidates
+  out to a redshift of 4.5 of which one hundred or so are more likely after
+  filtering out contaminating stars. Angular separations of 0"6-4"0 correspond
+  to projected separations of 3-30 kpc, a range relatively unexplored for
+  population studies of luminous dual quasars. Using Keck I/Low Resolution
+  Imaging Spectrometer and Gemini-N/Near-Infrared Integral Field Spectrometer,
+  we spectroscopically confirm three dual quasar systems at z < 1, two of which
+  are previously unknown out of eight observed, based on the presence of
+  characteristic broad emission lines in each component, while highlighting that
+  the continuum of one object in one of the pairs is reddened. In all cases, the
+  [O III]λ5007 emission lines have mild velocity offsets, thus the joint [O III]
+  line profile is not double-peaked. We find a dual quasar fraction of 0.26 ±
+  0.18% and no evidence for evolution. A comparison with the Horizon-AGN
+  simulation seems to support the case of no evolution in the dual quasar
+  fraction when broadly matching the quasar selection. These results may
+  indicate a scenario in which the frequency of the simultaneous triggering of
+  luminous quasars is not as sensitive as expected to the cosmic evolution of
+  the merger rate or gas content of galaxies.
+slides: example
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+publication_types:
+  - "2"
+authors:
+  - Silverman
+  - John D.; Tang
+  - Shenli; Lee
+  - Khee-Gan; Hartwig
+  - Tilman; Goulding
+  - Andy; Strauss
+  - Michael A.; Schramm
+  - Malte; Ding
+  - Xuheng; Riffel
+  - Rogemar A.; Fujimoto
+  - Seiji et al.
+author_notes: []
+publication: The Astrophysical Journal
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: ""
+url_project: ""
+publication_short: APJ
+url_source: ""
+url_video: ""
+title: Dual Supermassive Black Holes at Close Separation Revealed by the Hyper
+  Suprime-Cam Subaru Strategic Program
+doi: 10.3847/1538-4357/aba4a3
+featured: false
+tags:
+  - Source Themes
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2015-09-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 
 {{% callout note %}}
