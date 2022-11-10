@@ -44,6 +44,6 @@ image:
     host mass calculated in the same way with de- composition and SED fitting.
     Our dual quasars are plotted with the dots representing the two BHs
     separately, and the star symbols are the sum of the dots, mimicking the
-    final state of the merger. ted
+    final state of the merger.
 date: 2021-11-01T04:00:49.349Z
 ---
